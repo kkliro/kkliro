@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Konstantin👋
+
+I am currently pursuing a Bachelor's in Software Engineering.
+
+Here are some of my interests:
+- Cloud Development
+- Game Development using Unity and Unreal Engine
+- Web Development (primarily focusing on Nodejs and WebGL)
 
 <!--
 **kkliro/kkliro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
